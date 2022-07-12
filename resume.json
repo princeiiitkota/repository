@@ -1,0 +1,96 @@
+{
+    "basics": {
+        "name": "prince kumar",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/109151041?s=400&u=34e0294c37065c5ac6e3f7ca2a131a804239014a&v=4",
+        "email": "2021kucp1033@iiitkota.ac.in",
+        "phone": "+917412990676",
+        "website": "https://thegauravparmar.com",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development..",
+        "location": {
+            "address": "bihar",
+            "postalCode": "821115",
+            "city": "sasarma",
+            "countryCode": " India",
+            "region": "bihar"
+        },
+        "profiles": [ 
+            {
+                "network": "Github",
+                "username": "prince kumar",
+                "url": "https://github.com/settings/profile"
+            },
+            {
+                "network": "linkedin",
+                "username": "prince kumar",
+                "url": "https://www.linkedin.com/in/prince-kumar-418801230"
+            }, 
+        ]
+    },
+    "work": [ 
+        {
+            "company": "IIIT Kota",
+            "position": "Web Developer",
+            "website": "https://iiitkota.ac.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the offical website of IIIT Kota."
+        }, 
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "computer science",
+            "startDate": "4 jan 2022",
+            "endDate": " 4 jan 2025",
+            "gpa": "8.2",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "1341st Rank in Kick Start 2021",
+            "awarder": "Google",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "IIIT Kota Website",
+            "details": "Build IIIT Kota Website Using MERN.",
+            "link": "https://iiitkota.ac.in/"
+        }, 
+    ],
+    "skills": [
+        {
+            "name": "data structure and algorithem",
+            "level": "mediator",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript", 
+                "MySQL",
+                "Git",
+                "C/C++",  
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": " hindi",
+            "fluency": "native speaker",
+        }
+    ], 
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
